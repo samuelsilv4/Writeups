@@ -9,3 +9,4 @@ Links para todos os Write-Ups que escrevi.
 
 ### RACTF:
 - **Junho de 2020:** C0llide? (https://medium.com/@0x53/write-up-c0llide-ractf-31d8576d42bd) 
+- **Junho de 2020:** Insert Witty Name (https://medium.com/@0x53/write-up-insert-witty-name-ractf-web-bcfd53867dcd)
